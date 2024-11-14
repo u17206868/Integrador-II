@@ -1,0 +1,40 @@
+ # Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Blueprints files
+*.bp
+*.bpmn
+
+# External tool files
+.project
+.classpath
+.settings
+.cache
+
+# Compiled apps
+*.war
+*.ear
+
+# Maven files 
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# IDE files
+.idea
+*.iml  
+nb-configuration.xml
+
+# Thumbs.db files (Windows image preview files)
+Thumbs.db
+
+nb-configuration.xml

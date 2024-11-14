@@ -1,0 +1,21 @@
+{
+    "java.compile.nullAnalysis.mode": "automatic",
+    "conventionalCommits.scopes": [
+        "web",
+        "commits",
+        "api",
+        "controllers",
+        "dao",
+        "db",
+        "entities",
+        "services",
+        "util",
+        "security",
+        "tests",
+        "config",
+        "docs",
+        "build",
+        "servlets",
+        "reportes"
+    ]
+}
